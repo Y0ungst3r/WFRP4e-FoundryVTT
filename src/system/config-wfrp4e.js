@@ -279,9 +279,7 @@ WFRP4E.characteristics = {
     "bs": "CHAR.BS",
     "s": "CHAR.S",
     "t": "CHAR.T",
-    "i": "CHAR.I",
     "ag": "CHAR.Ag",
-    "dex": "CHAR.Dex",
     "int": "CHAR.Int",
     "wp": "CHAR.WP",
     "fel": "CHAR.Fel"
@@ -293,9 +291,7 @@ WFRP4E.characteristicsAbbrev = {
     "bs": "CHARAbbrev.BS",
     "s": "CHARAbbrev.S",
     "t": "CHARAbbrev.T",
-    "i": "CHARAbbrev.I",
     "ag": "CHARAbbrev.Ag",
-    "dex": "CHARAbbrev.Dex",
     "int": "CHARAbbrev.Int",
     "wp": "CHARAbbrev.WP",
     "fel": "CHARAbbrev.Fel"
@@ -307,9 +303,7 @@ WFRP4E.characteristicsBonus = {
     "bs": "CHARBonus.BS",
     "s": "CHARBonus.S",
     "t": "CHARBonus.T",
-    "i": "CHARBonus.I",
     "ag": "CHARBonus.Ag",
-    "dex": "CHARBonus.Dex",
     "int": "CHARBonus.Int",
     "wp": "CHARBonus.WP",
     "fel": "CHARBonus.Fel"
@@ -340,9 +334,7 @@ WFRP4E.talentMax = {
     "bs": "CHARBonus.BS",
     "s": "CHARBonus.S",
     "t": "CHARBonus.T",
-    "i": "CHARBonus.I",
     "ag": "CHARBonus.Ag",
-    "dex": "CHARBonus.Dex",
     "int": "CHARBonus.Int",
     "wp": "CHARBonus.WP",
     "fel": "CHARBonus.Fel"

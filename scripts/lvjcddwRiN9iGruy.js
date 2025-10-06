@@ -21,7 +21,6 @@ if (test.failed)
       <p>${inline.replace("@ROLL", s).replace("@TT", "1d10")} <b>Strength</b></p>
       <p>${inline.replace("@ROLL", t).replace("@TT", "1d10")} <b>Toughness</b></p>
       <p>${inline.replace("@ROLL", ag).replace("@TT", "1d10")} <b>Agility</b></p>
-      <p>${inline.replace("@ROLL", dex).replace("@TT", "1d10")} <b>Dexterity</b></p>
  `
     this.script.message(msg);
 

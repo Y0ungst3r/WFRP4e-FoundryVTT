@@ -49,30 +49,10 @@
             "bonusMod" : 0,
             "calculationBonusModifier": 0
           },
-          "i": {
-            "type": "Number",
-            "label": "CHAR.I",
-            "abrev": "CHARAbbrev.I",
-            "initial": 20,
-            "modifier": 0,
-            "advances": 0,
-            "bonusMod" : 0,
-            "calculationBonusModifier": 0
-          },
           "ag": {
             "type": "Number",
             "label": "CHAR.Ag",
             "abrev": "CHARAbbrev.Ag",
-            "initial": 20,
-            "modifier": 0,
-            "advances": 0,
-            "bonusMod" : 0,
-            "calculationBonusModifier": 0
-          },
-          "dex": {
-            "type": "Number",
-            "label": "CHAR.Dex",
-            "abrev": "CHARAbbrev.Dex",
             "initial": 20,
             "modifier": 0,
             "advances": 0,

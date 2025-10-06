@@ -153,9 +153,7 @@ Here is a list of useful keys used to modify Actors
 |Ballistic Skill                 | `system.characteristics.bs.*`  |
 |Strength                        | `system.characteristics.s.*`   |
 |Toughness                       | `system.characteristics.t.*`   |
-|Initiative                      | `system.characteristics.i.*`   |
 |Agility                         | `system.characteristics.ag.*`  |
-|Dexterity                       | `system.characteristics.dex.*` |
 |Intelligence                    | `system.characteristics.int.*` |
 |Willpower                       | `system.characteristics.wp.*`  |
 |Fellowship                      | `system.characteristics.fel.*` |
