@@ -6,13 +6,13 @@ export default function () {
 
   if (game.settings.get("wfrp4e", "homebrew").mooDifficulty) {
 
-    config.difficultyModifiers["veasy"] = 40
-    config.difficultyModifiers["easy"] = 30
-    config.difficultyModifiers["average"] = 20
+    config.difficultyModifiers["veasy"] = 30
+    config.difficultyModifiers["easy"] = 20
+    config.difficultyModifiers["average"] = 10
     config.difficultyModifiers["challenging"] = 0
-    config.difficultyModifiers["difficult"] = -20
-    config.difficultyModifiers["hard"] = -30
-    config.difficultyModifiers["vhard"] = -40
+    config.difficultyModifiers["difficult"] = -10
+    config.difficultyModifiers["hard"] = -20
+    config.difficultyModifiers["vhard"] = -30
 
     config.difficultyLabels["veasy"] = game.i18n.localize ("DIFFICULTY.MooVEasy")
     config.difficultyLabels["easy"] = game.i18n.localize ("DIFFICULTY.MooEasy")

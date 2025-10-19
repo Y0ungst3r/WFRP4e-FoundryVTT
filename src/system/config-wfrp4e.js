@@ -548,11 +548,11 @@ WFRP4E.rangeBands = {
 
 // Difficulty Modifiers
 WFRP4E.difficultyModifiers = {
-    "veasy": 60,
-    "easy": 40,
-    "average": 20,
-    "challenging": 0,
-    "difficult": -10,
+    "veasy": 30,
+    "easy": 20,
+    "routine": 10,
+    "average": 0,
+    "challenging": -10,
     "hard": -20,
     "vhard": -30
 }
@@ -562,9 +562,9 @@ WFRP4E.difficultyLabels = {
 
     "veasy": "DIFFICULTY.VEasy",
     "easy": "DIFFICULTY.Easy",
+    "routine": "DIFFICULTY.Routine",
     "average": "DIFFICULTY.Average",
     "challenging": "DIFFICULTY.Challenging",
-    "difficult": "DIFFICULTY.Difficult",
     "hard": "DIFFICULTY.Hard",
     "vhard": "DIFFICULTY.VHard"
 }
@@ -573,9 +573,9 @@ WFRP4E.difficultyNames = {
 
     "veasy": "DIFFICULTYNAME.VEasy",
     "easy": "DIFFICULTYNAME.Easy",
+    "routine": "DIFFICULTYNAME.Routine",
     "average": "DIFFICULTYNAME.Average",
     "challenging": "DIFFICULTYNAME.Challenging",
-    "difficult": "DIFFICULTYNAME.Difficult",
     "hard": "DIFFICULTYNAME.Hard",
     "vhard": "DIFFICULTYNAME.VHard"
 };
