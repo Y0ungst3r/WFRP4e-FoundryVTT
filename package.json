@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moo-man/WFRP4e-FoundryVTT.git"
+    "url": "git+https://github.com/Y0ungst3r/WFRP4e-FoundryVTT"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moo-man/WFRP4e-FoundryVTT/issues"
+    "url": "https://github.com/Y0ungst3r/WFRP4e-FoundryVTT/issues"
   },
-  "homepage": "https://github.com/moo-man/WFRP4e-FoundryVTT#readme",
+  "homepage": "https://github.com/Y0ungst3r/WFRP4e-FoundryVTT#readme",
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "1.0.2",
     "cross-env": "^7.0.3",

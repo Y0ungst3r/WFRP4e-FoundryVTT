@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   implementation of the Warhammer Fastasy Roleplay 4th Edition (wfrp4e) system by Cubicle 7. You can find basic information
   and instruction on how to use the system as well as advanced instructions for macros and scripts. 
 baseurl: /WFRP4e-FoundryVTT
-url: https://moo-man.github.io
-repository: moo-man/WFRP4e-FoundryVTT
+url: https://Y0ungst3r.github.io
+repository: Y0ungst3r/WFRP4e-FoundryVTT
 twitter_username: ""
-github_username:  moo-man
+github_username:  Y0ungst3r
 
 # Build settings
 # theme: just-the-docs

@@ -11,9 +11,7 @@ export class CharacteristicsModel extends foundry.abstract.DataModel
         schema.bs = new fields.EmbeddedDataField(CharacteristicModel);
         schema.s = new fields.EmbeddedDataField(CharacteristicModel);
         schema.t = new fields.EmbeddedDataField(CharacteristicModel);
-        schema.i = new fields.EmbeddedDataField(CharacteristicModel);
         schema.ag = new fields.EmbeddedDataField(CharacteristicModel);
-        schema.dex = new fields.EmbeddedDataField(CharacteristicModel);
         schema.int = new fields.EmbeddedDataField(CharacteristicModel);
         schema.wp = new fields.EmbeddedDataField(CharacteristicModel);
         schema.fel = new fields.EmbeddedDataField(CharacteristicModel);
